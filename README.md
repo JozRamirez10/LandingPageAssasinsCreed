@@ -5,6 +5,7 @@ Usando Javascript válida que los campos del formulario de inició de sesión no
 Incorpora un carrusel de imágenes usando Javascript en "Menú".
 
 Acceso
+
 <img width="604" alt="Screen Shot 2024-01-06 at 20 02 51" src="https://github.com/JozRamirez10/LandingPageAssasinsCreed/assets/101752395/427179f3-a67b-4cd8-aca2-7293656ede3f">
 
 Menú
