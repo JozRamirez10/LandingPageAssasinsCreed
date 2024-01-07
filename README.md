@@ -14,7 +14,8 @@ Menú
 
 Principal
 
-<img width="1436" alt="Screen Shot 2024-01-06 a<img width="1436" alt="Screen Shot 2024-01-06 at 20 07 18" src="https://github.com/JozRamirez10/LandingPageAssasinsCreed/assets/101752395/0e8d849e-c8d5-4c27-9994-d48ab01ae3a3">
+<img width="1436" alt="Screen Shot 2024-01-06 at 20 14 14" src="https://github.com/JozRamirez10/LandingPageAssasinsCreed/assets/101752395/21a4095d-e2a4-4068-b01b-4a14767b8270">
+
 
 <img width="1436" alt="Screen Shot 2024-01-06 at 20 13 02" src="https://github.com/JozRamirez10/LandingPageAssasinsCreed/assets/101752395/3b2aff7a-6235-48bb-846a-6ab10b61c3d6">
 
